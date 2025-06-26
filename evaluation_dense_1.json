@@ -1,0 +1,462 @@
+[
+  {
+    "user_input":"How many 3-pointers did Kemba Walker make in the 2018-2019 NBA season?",
+    "response":"Kemba Walker made 250 three-pointers in the 2018-2019 NBA season.",
+    "reference":"Walker made 250 3-pointers in the 2018-2019 NBA season, becoming the ninth different player in NBA history to connect on 250+ 3-pointers in a season.",
+    "judgement": "1/1"
+  },
+  {
+    "user_input":"Who did Ray Allen co-star alongside in 2015?",
+    "response":"In 2015, Ray Allen co-starred alongside Kyrie Irving, Baron Davis, and J.",
+    "reference":"Kyrie Irving, Baron Davis, and J.",
+    "judgement": "2/2"
+
+  },
+  {
+    "user_input":"What college did Miye Oni play basketball for?",
+    "response":"Miye Oni played college basketball for the Yale Bulldogs.",
+    "reference":"Yale Bulldogs",
+    "judgement": "3/3"
+  },
+  {
+    "user_input":"In what year did AJ Green record his fourth consecutive 1,000 yard season despite missing three games and nearly all of two more due to a concussion?",
+    "response":"AJ Green recorded his fourth consecutive 1,000 yard season in 2015, despite missing three games and nearly all of two more due to a concussion.",
+    "reference":"2015",
+    "judgement": "4/4"
+  },
+  {
+    "user_input":"What was Ronald Dupree's shooting percentage from the field in the specified season?",
+    "response":"Ronald Dupree's shooting percentage from the field in the 2003\u201304 season was 0.394.",
+    "reference":"0.286",
+    "judgement": "4/4"
+  },
+  {
+    "user_input":"In which year did Kirk Haston play basketball?",
+    "response":"Kirk Haston played basketball during the years 1998-2001 in college and from 2001 to 2003 in the NBA.",
+    "reference":"Kirk Haston played basketball in the year mentioned in the document.",
+    "judgement": "5/5"
+  },
+  {
+    "user_input":"In what year was Adonal Foyle inducted into the World Sports Humanitarian Hall of Fame?",
+    "response":"Adonal Foyle was inducted into the World Sports Humanitarian Hall of Fame on September 24, 2009.",
+    "reference":"2009",
+    "judgement": "6/6"
+    
+  },
+  {
+    "user_input":"In which year did Cozell McQueen lead the Italian Serie A league in blocks per game?",
+    "response":"Cozell McQueen led the Italian Serie A league in blocks per game in the 1988\u201389 season.",
+    "reference":"1988\u201389",
+    "judgement": "7/7"
+  },
+  {
+    "user_input":"In which year did Brandon Ingram represent the Olympic basketball team?",
+    "response":"Brandon Ingram represented the Olympic basketball team in 2023 when he was a member of the United States national team that competed in the 2023 FIBA Basketball World Cup.",
+    "reference":"...",
+    "judgement": "8/8"
+  },
+  {
+    "user_input":"What were Greg Brown III's shooting percentages from the field, 3-point range, and free throw line in the mentioned season?",
+    "response":"I don't know.",
+    "reference":"Greg Brown III shot 0.42 from the field, 0.33 from 3-point range, and 0.708 from the free throw line.",
+    "judgement": "8/9"
+  },
+  {
+    "user_input":"What did Michael Jackson install at his Neverland Ranch?",
+    "response":"Michael Jackson installed a Ferris wheel, a carousel, a movie theater, and a zoo at his Neverland Ranch.",
+    "reference":"He installed a Ferris wheel, a carousel, a movie theater, and a zoo.",
+    "judgement": "9/10" 
+  },
+  {
+    "user_input":"In the 2016-17 season, how many games did Ron Baker play for New York?",
+    "response":"In the 2016\u201317 season, Ron Baker played for New York in 52 games.",
+    "reference":"Ron Baker played in 52 games for New York in the 2016-17 season.",
+    "judgement": "10/11"
+  },
+  {
+    "user_input":"In the 2012-13 season, how many games did Steve Blake play for the L.A. Lakers?",
+    "response":"In the 2012-13 season, Steve Blake played for the L.A. Lakers in 45 games.",
+    "reference":"Steve Blake played 45 games for the L.A. Lakers in the 2012-13 season.",
+    "judgement": "11/12"
+
+  },
+  {
+    "user_input":"What were Victor Oladipo's shooting percentages from the field, 3-point range, and free throw line in the specified season?",
+    "response":"In the specified season (2022\u201323), Victor Oladipo's shooting percentages were as follows: 39.7% from the field, 33.0% from 3-point range, and 74.7% from the free throw line.",
+    "reference":"He shot 0.599 from the field, 0.441 from 3-point range, and 0.746 from the free throw line.",
+    "judgement": "11/12"
+  },
+  {
+    "user_input":"In which season did Ruben Boumtje-Boumtje have the highest average minutes per game while playing for Portland?",
+    "response":"I don't know.",
+    "reference":"Ruben Boumtje-Boumtje had the highest average of 7.4 minutes per game in the 2001-02 season while playing for Portland.",
+    "judgement": "11/13"
+  },
+  {
+    "user_input":"What book by Todd Spehr provides insight into the remarkable life and legacy of Drazen Petrovic?",
+    "response":"The book by Todd Spehr that provides insight into the remarkable life and legacy of Drazen Petrovic is titled \"The Mozart of Basketball: The Remarkable Life and Legacy of Drazen Petrovic.\"",
+    "reference":"The Mozart of Basketball: The Remarkable Life and Legacy of Drazen Petrovic",
+    "judgement": "12/14"
+  },
+  {
+    "user_input":"In which year did Marial Shayok make his NBA debut for the Philadelphia 76ers?",
+    "response":"Marial Shayok made his NBA debut for the Philadelphia 76ers on February 6, 2020.",
+    "reference":"Marial Shayok made his NBA debut for the Philadelphia 76ers on February 6.",
+    "judgement": "13/15"
+  },
+  {
+    "user_input":"In which league did Mickael Gelabale last play for before joining the Los Angeles D-Fenders in the NBA D-League?",
+    "response":"Mickael Gelabale last played for \u00c9lan Chalon of the Pro B before joining the Los Angeles D-Fenders in the NBA D-League.",
+    "reference":"\u00c9lan Chalon of the Pro B",
+    "judgement": "14/16"
+  },
+  {
+    "user_input":"In which NBA Finals did David Rivers and the Los Angeles Lakers face the Detroit Pistons?",
+    "response":"David Rivers and the Los Angeles Lakers faced the Detroit Pistons in the 1989 NBA Finals.",
+    "reference":"NBA Finals in 1988",
+    "judgement": "14/17"
+  },
+  {
+    "user_input":"In which year was Dontae' Jones inducted into the Mississippi Sports Hall of Fame?",
+    "response":"Dontae' Jones was inducted into the Mississippi Sports Hall of Fame in 2016.",
+    "reference":"2016",
+    "judgement": "15/18"
+  },
+  {
+    "user_input":"In which game did Nik Stauskas contribute a career-high 6 assists along with 20 points?",
+    "response":"Nik Stauskas contributed a career-high 6 assists along with 20 points in a game against Iowa State on November 17.",
+    "reference":"Nik Stauskas contributed a career-high 6 assists along with 20 points against Iowa State on November 17.",
+    "judgement": "16/19"
+  },
+  {
+    "user_input":"Which NBA team did Gabe Vincent reach the NBA Finals with in both 2020 and 2023?",
+    "response":"Gabe Vincent reached the NBA Finals with the Miami Heat in both 2020 and 2023.",
+    "reference":"Miami Heat",
+    "judgement": "17/20"
+  },
+  {
+    "user_input":"In what year did Doug Christie sell 1,800 copies of The Christie\u2019s Un-Cut, a self-made comedy featuring satirical sketches of him and his wife?",
+    "response":"Doug Christie sold 1,800 copies of The Christie\u2019s Un-Cut in 2007.",
+    "reference":"2007",
+    "judgement": "18/21"
+  },
+  {
+    "user_input":"What are Rick Brunson's career statistics according to NBA.com and Basketball Reference?",
+    "response":"I don't know.",
+    "reference":"Career statistics from NBA.com \u00b7 Basketball Reference 'Profile at NBA.com'.",
+    "judgement": "18/21"
+  },
+  {
+    "user_input":"Which NBA teams did Shelton Jones play for during the 1988-89 season?",
+    "response":"During the 1988-89 season, Shelton Jones played for the San Antonio Spurs, the Golden State Warriors, and the Philadelphia 76ers.",
+    "reference":"Shelton Jones played for the San Antonio Spurs, the Golden State Warriors, and the Philadelphia 76ers during the 1988-89 NBA season.",
+    "judgement": "19/22"
+  },
+  {
+    "user_input":"In which year did Garrett Temple score a career-high 30 points in a game for the Memphis Grizzlies?",
+    "response":"I don't know.",
+    "reference":"Garrett Temple scored a career-high 30 points in a game for the Memphis Grizzlies on October 19, 2018.",
+    "judgement": "19/23"
+  },
+  {
+    "user_input":"What was Scott Machado's field goal percentage during the season mentioned in the passage?",
+    "response":"Scott Machado's field goal percentage during the season mentioned in the passage was .543.",
+    "reference":"0.5",
+    "judgement": "19/23"
+  },
+  {
+    "user_input":"In which year did Tim Frazier sign a multi-year deal with the Portland Trail Blazers after being named the 2015 NBA Development League's Most Valuable Player and Rookie of the Year?",
+    "response":"Tim Frazier signed a multi-year deal with the Portland Trail Blazers on March 30, 2015, after being named the 2015 NBA Development League's Most Valuable Player and Rookie of the Year.",
+    "reference":"In 2015",
+    "judgement": "20/24"
+  },
+  {
+    "user_input":"In which season did Corey Maggette play the most minutes per game for the L.A. Clippers?",
+    "response":"Corey Maggette played the most minutes per game for the L.A. Clippers in the 2005\u201306 season, averaging 36.9 minutes per game.",
+    "reference":"Corey Maggette played the most minutes per game for the L.A. Clippers in the 2004\u201305 season, averaging 36.0 minutes per game.",
+    "judgement": "21/25"
+
+  },
+  {
+    "user_input":"In what year did Tyus Edney lead \u017dalgiris Kaunas to the EuroLeague title and was named the EuroLeague Final Four MVP?",
+    "response":"Tyus Edney led \u017dalgiris Kaunas to the EuroLeague title and was named the EuroLeague Final Four MVP in the 1998\u20131999 season.",
+    "reference":"1999",
+    "judgement": "22/26"
+  },
+  {
+    "user_input":"In which season did Brandan Wright have the highest field goal percentage while playing for Dallas?",
+    "response":"I don't know.",
+    "reference":"Brandan Wright had the highest field goal percentage while playing for Dallas in the 2014\u201315 season, shooting 0.748 from the field.",
+    "judgement": "22/27"
+  },
+  {
+    "user_input":"In which season did Ed Davis play for Brooklyn and average the highest number of rebounds per game?",
+    "response":"In the 2018\u201319 season, Ed Davis played for Brooklyn and averaged the highest number of rebounds per game, which was 8.6 rebounds.",
+    "reference":"In the 2018-19 season, Ed Davis played for Brooklyn and averaged 8.6 rebounds per game.",
+    "judgement": "23/28"
+  },
+  {
+    "user_input":"Which competition did JJ Redick win in 2002?",
+    "response":"I don't know.",
+    "reference":"JJ Redick won the 2002 McDonald's 3-point shooting competition.",
+    "judgement": "23/29"
+  },
+  {
+    "user_input":"In which season did Maurice Harkless play for the L.A. Clippers?",
+    "response":"I don't know.",
+    "reference":"Maurice Harkless played for the L.A. Clippers in the 2019\u201320 season.",
+    "judgement": "23/30"
+  },
+  {
+    "user_input":"What position did Landry Fields take on the San Antonio Spurs once his playing career ended?",
+    "response":"After his playing career ended, Landry Fields took the position of college scout for the San Antonio Spurs.",
+    "reference":"College scout",
+    "judgement": "24/31"
+  },
+  {
+    "user_input":"What was Primoz Brezec's field goal percentage during the season mentioned in the passage?",
+    "response":"Primoz Brezec's field goal percentage during the 2001\u201302 season was 48.3% (0.483).",
+    "reference":"0.571",
+    "judgement": "24/31"
+  },
+  {
+    "user_input":"Where did Tim Hardaway Jr. attend high school before focusing on basketball?",
+    "response":"Tim Hardaway Jr. attended Miami Palmetto High School before focusing on basketball.",
+    "reference":"Tim Hardaway Jr. attended Miami Palmetto High School in the Pinecrest neighborhood of Miami-Dade County, Florida.",
+    "judgement": "25/32"
+  },
+  {
+    "user_input":"How does Dennis Rodman believe most people around the country or world view him?",
+    "response":"I don't know.",
+    "reference":"Most people see Dennis Rodman as someone trying to be free and themselves.",
+    "judgement": "25/33"
+  },
+  {
+    "user_input":"In which year did Howard Eisley make a 3-point shot in Game 6 of the NBA Finals that was released before the shot clock expired?",
+    "response":"I don't know.",
+    "reference":"1998",
+    "judgement": "25/34"
+  },
+  {
+    "user_input":"In which year did Taran Armstrong record his first career triple-double in the NBL?",
+    "response":"Taran Armstrong recorded his first career triple-double in the NBL on 6 February 2025.",
+    "reference":"Taran Armstrong recorded his first career triple-double in the NBL in 2025.",
+    "judgement": "26/35"
+  },
+  {
+    "user_input":"In which year did Michael Carter-Williams score a career-high 24 points to lead Syracuse past the No. 1 seed Indiana Hoosiers in the NCAA's East Region semi-finals?",
+    "response":"Michael Carter-Williams scored a career-high 24 points to lead Syracuse past the No. 1 seed Indiana Hoosiers in the NCAA's East Region semi-finals on March 28, 2013.",
+    "reference":"2013",
+    "judgement": "27/36"
+  },
+  {
+    "user_input":"Which team did Duane Cooper win a Continental Basketball Association (CBA) championship with in the year 2000?",
+    "response":"Duane Cooper won a Continental Basketball Association (CBA) championship with the Yakima Sun Kings in the year 2000.",
+    "reference":"Yakima Sun Kings",
+    "judgement": "28/37"
+  },
+  {
+    "user_input":"In which season did Marcus Derrickson play for the Golden State Warriors, and what were his average statistics in that season?",
+    "response":"Marcus Derrickson played for the Golden State Warriors in the 2018\u201319 season. During that season, he averaged 4.2 points, 1.2 rebounds, 0.1 assists, 0.0 steals, and 0.1 blocks per game.",
+    "reference":"Marcus Derrickson played for the Golden State Warriors in the 2018\u201319 season. He averaged 4.2 points, 1.2 rebounds, 0.1 assists, 0.0 steals, and 0.1 blocks per game.",
+    "judgement": "29/38"
+  },
+  {
+    "user_input":"What were Alex Poythress' averages in points and rebounds per game during his 16 EuroLeague games?",
+    "response":"Alex Poythress averaged 7.8 points and 3.6 rebounds per game during his 16 EuroLeague games.",
+    "reference":"7.8 points and 3.6 rebounds",
+    "judgement": "30/39"
+  },
+  {
+    "user_input":"What is the page range of the document that includes information about John Williams?",
+    "response":"The page range of the document that includes information about John Williams is pp. 95\u2013116.",
+    "reference":"63\u2013108",
+    "judgement": "30/39"
+  },
+  {
+    "user_input":"In which year did Manu Ginobili become the Spurs' career leader in steals?",
+    "response":"Manu Ginobili became the Spurs' career leader in steals on March 29, 2018.",
+    "reference":"In 2018.",
+    "judgement": "31/40"
+  },
+  {
+    "user_input":"In which season did Landry Shamet play for the Philadelphia 76ers and what were his average points, rebounds, assists, steals, and blocks per game?",
+    "response":"Landry Shamet played for the Philadelphia 76ers in the 2018\u201319 season. During that season, he averaged 8.3 points, 1.4 rebounds, 1.1 assists, 0.4 steals, and 0.1 blocks per game.",
+    "reference":"In the 2018\u201319 season, Landry Shamet played for Philadelphia in 54 games and averaged 8.3 points, 1.4 rebounds, 1.1 assists, 0.4 steals, and 0.1 blocks per game.",
+    "judgement": "32/41"
+  },
+  {
+    "user_input":"In which year was Leo Rautins named head coach of the Canadian national team?",
+    "response":"Leo Rautins was named head coach of the Canadian national team in February 2005.",
+    "reference":"February 2005",
+    "judgement": "33/42"
+  },
+  {
+    "user_input":"What were Tarence Kinsey's shooting percentages from the field, 3-point range, and free throw line in the specified season?",
+    "response":"Tarence Kinsey's shooting percentages for the specified season were 36.7% from the field, 38.7% from 3-point range, and 72.2% from the free throw line.",
+    "reference":"Tarence Kinsey shot 0.453 from the field, 0.378 from 3-point range, and 0.843 from the free throw line.",
+    "judgement": "33/42"
+  },
+  {
+    "user_input":"In which year did Evan Turner start a podcast with his former teammate Andre Iguodala?",
+    "response":"Evan Turner started a podcast with his former teammate Andre Iguodala in March 2022.",
+    "reference":"March 2022",
+    "judgement": "34/43"
+  },
+  {
+    "user_input":"Which college did Howard Eisley play basketball for before being drafted by the Minnesota Timberwolves in 1994?",
+    "response":"Howard Eisley played college basketball for the Boston College Eagles before being drafted by the Minnesota Timberwolves in 1994.",
+    "reference":"Boston College Eagles",
+    "judgement": "35/44"
+  },
+  {
+    "user_input":"In which season did Wesley Johnson play for Syracuse and average 16.5 points, 8.5 rebounds, 2.2 assists, 1.7 steals, and 1.8 blocks per game?",
+    "response":"Wesley Johnson played for Syracuse and averaged 16.5 points, 8.5 rebounds, 2.2 assists, 1.7 steals, and 1.8 blocks per game in the 2009\u201310 season.",
+    "reference":"2009\u201310 season",
+    "judgement": "36/45"
+  },
+  {
+    "user_input":"In which season did Devin Carter play for South Carolina and average 9.0 points, 3.8 rebounds, 1.8 assists, 0.9 steals, and 0.3 blocks per game?",
+    "response":"Devin Carter played for South Carolina during the 2021\u201322 season and averaged 9.0 points, 3.8 rebounds, 1.8 assists, 0.9 steals, and 0.3 blocks per game.",
+    "reference":"Devin Carter played for South Carolina in the 2021-22 season.",
+    "judgement": "37/46"
+  },
+  {
+    "user_input":"How did Darko Milicic's father survive the Yugoslav Wars despite being initially reported as killed in action?",
+    "response":"Darko Mili\u010di\u0107's father survived the Yugoslav Wars despite being initially reported as killed in action due to a correction made shortly after the news report. Darko, who was not yet 10 years old at the time, heard a report that named his father among Serbian soldiers killed in action. However, a few minutes later, the newscaster clarified that some of those reported killed, including his father, had been incorrectly included in that list. As a result, his father ultimately survived the wars.",
+    "reference":"The newscaster indicated that some of the soldiers, including Milicic's father, had been incorrectly included as killed in the initial report.",
+    "judgement": "38/47"
+  },
+  {
+    "user_input":"In which season did Kevin McCullar Jr. average the highest number of points per game?",
+    "response":"Kevin McCullar Jr. averaged the highest number of points per game in the 2023\u201324 season, with an average of 18.3 points per game.",
+    "reference":"Kevin McCullar Jr. averaged the highest number of points per game in the 2023\u201324 season with 18.3 points.",
+    "judgement": "39/48"
+  },
+  {
+    "user_input":"In which season did Ndudi Ebi play for Minnesota and average 13.5 points, 8.0 rebounds, 0.5 assists, 0.5 steals, and 0.5 blocks per game?",
+    "response":"Ndudi Ebi played for Minnesota in the 2004\u201305 season, averaging 13.5 points, 8.0 rebounds, 0.5 assists, 0.5 steals, and 0.5 blocks per game.",
+    "reference":"Ndudi Ebi played for Minnesota in the 2004\u201305 season and averaged 13.5 points, 8.0 rebounds, 0.5 assists, 0.5 steals, and 0.5 blocks per game.",
+    "judgement": "40/49"
+  },
+  {
+    "user_input":"Which NBA team did Devean George win three championships with?",
+    "response":"Devean George won three championships with the Los Angeles Lakers.",
+    "reference":"Los Angeles Lakers",
+    "judgement": "41/50"
+  },
+  {
+    "user_input":"In which year was Troy Williams named Big Ten Player of the Week and Oscar Robertson National Player of the Week?",
+    "response":"Troy Williams was named Big Ten Player of the Week on December 22, 2014, and Oscar Robertson National Player of the Week on December 23, 2014.",
+    "reference":"2014-15",
+    "judgement": "42/51"
+  },
+  {
+    "user_input":"What were Amir Coffey's shooting percentages from the field, 3-point range, and free throw line during the season mentioned in the passage?",
+    "response":"Amir Coffey's shooting percentages during the specified seasons were as follows:\n\n- For the 2020\u201321 season: \n  - Field: 0.437 \n  - 3-point: 0.411 \n  - Free throw: 0.711 \n\n- For the 2021\u201322 season: \n  - Field: 0.453 \n  - 3-point: 0.378 \n  - Free throw: 0.863 \n\n- For the 2022\u201323 season: \n  - Field: 0.386 \n  - 3-point: 0.275 \n  - Free throw: 0.778 \n\n- For the 2023\u201324 season: \n  - Field: 0.472 \n  - 3-point: 0.380 \n  - Free throw: 0.859 \n\n- For the 2024\u201325 season: \n  - Field: 0.471 \n  - 3-point: 0.409 \n  - Free throw: 0.891 \n\nIf you're asking for specific percentages from one of these seasons or if there's a specific season in mind, please clarify!",
+    "reference":"Amir Coffey shot 0.436 from the field, 0.304 from 3-point range, and 0.74 from the free throw line during the season.",
+    "judgement": "42/51"
+  },
+  {
+    "user_input":"In which game of the 2011 NBA Finals did Dirk Nowitzki score 48 points and set an NBA record of 24 consecutive free throws made?",
+    "response":"Dirk Nowitzki scored 48 points and set an NBA record of 24 consecutive free throws made in Game 1 of the 2011 NBA Finals.",
+    "reference":"Game 1",
+    "judgement": "43/52"
+  },
+  {
+    "user_input":"What milestone did Doug McDermott achieve on November 5, according to the passage?",
+    "response":"I don't know.",
+    "reference":"Doug McDermott earned his first career starting assignment on November 5 against the Oklahoma City Thunder.",
+    "judgement": "43/53"
+  },
+  {
+    "user_input":"In which game did Domantas Sabonis record a triple-double without a missed field goal, a turnover, and a foul?",
+    "response":"Domantas Sabonis recorded a triple-double without a missed field goal, a turnover, and a foul during a game on November 6, 2024, against the Toronto Raptors.",
+    "reference":"Domantas Sabonis recorded a triple-double without a missed field goal, a turnover, and a foul in a game against the Toronto Raptors on November 6, 2024.",
+    "judgement": "44/54"
+  },
+  {
+    "user_input":"In which year did Dan Gadzuric sign with the Los Angeles Lakers?",
+    "response":"I don't know.",
+    "reference":"2013",
+    "judgement": "44/55"
+  },
+  {
+    "user_input":"Which player replaced Monta Ellis in the starting lineup for the Pacers after he returned from his groin injury?",
+    "response":"Glenn Robinson III replaced Monta Ellis in the starting lineup for the Pacers after Ellis returned from his groin injury.",
+    "reference":"Glenn Robinson III",
+    "judgement": "45/56"
+  },
+  {
+    "user_input":"What was Dyson Daniels' field goal percentage during the season?",
+    "response":"Dyson Daniels shot .543 for field goal percentage during the season.",
+    "reference":"0.493",
+    "judgement": "45/56"
+  },
+  {
+    "user_input":"What were Jay Humphries' shooting percentages from the field, 3-point range, and free throw line in the specified season?",
+    "response":"Jay Humphries' shooting percentages in the specified season were 0.578 from the field, 0.412 from 3-point range, and 0.653 from the free throw line.",
+    "reference":"Jay Humphries shot 0.426 from the field, 0.318 from 3-point range, and 0.679 from the free throw line in the season where he played an average of 22.3 minutes per game.",
+    "judgement": "45/56"
+  },
+  {
+    "user_input":"In which year did Devin Brown win an NBA championship as a member of the San Antonio Spurs?",
+    "response":"Devin Brown won an NBA championship as a member of the San Antonio Spurs in 2005.",
+    "reference":"2005",
+    "judgement": "46/57"
+  },
+  {
+    "user_input":"What NBA teams did Butch Graves play for during the 1984-85 season?",
+    "response":"During the 1984-85 NBA season, Butch Graves played for the Cleveland Cavaliers.",
+    "reference":"Philadelphia 76ers and Cleveland Cavaliers.",
+    "judgement": "46/58"
+  },
+  {
+    "user_input":"In which season did Rony Seikaly play for Golden State and average 12.1 points, 7.8 rebounds, 1.1 assists, 0.6 steals, and 1.1 blocks per game?",
+    "response":"Rony Seikaly played for the Golden State Warriors during the 1995\u201396 season and averaged 12.1 points, 7.8 rebounds, 1.1 assists, 0.6 steals, and 1.1 blocks per game.",
+    "reference":"Rony Seikaly played for Golden State in the 1995\u201396 season.",
+    "judgement": "47/59"
+  },
+  {
+    "user_input":"What was the date when Bojan Bogdanovi\u0107 set a new season high with 37 points in a game against the Minnesota Timberwolves?",
+    "response":"Bojan Bogdanovi\u0107 set a new season high with 37 points in a game against the Minnesota Timberwolves on February 28, 2019.",
+    "reference":"February 28",
+    "judgement": "48/60"
+  },
+  {
+    "user_input":"In which season did Hollis Thompson play for the team Olympiacos?",
+    "response":"Hollis Thompson played for Olympiacos in the 2017\u201318 season.",
+    "reference":"Hollis Thompson played for Olympiacos in the 2017\u201318 season.",
+    "judgement": "49/61"
+  },
+  {
+    "user_input":"What was Anthony Johnson's shooting percentage from the field in the given season?",
+    "response":"Anthony Johnson's shooting percentage from the field in the given season was 0.371 (or 37.1%).",
+    "reference":"0.5",
+    "judgement": "49/61"
+  },
+  {
+    "user_input":"In which year did Vlatko \u010can\u010dar win his first NBA championship with the Denver Nuggets?",
+    "response":"Vlatko \u010can\u010dar won his first NBA championship with the Denver Nuggets in June 2023.",
+    "reference":"In June 2023",
+    "judgement": "50/62"
+  },
+  {
+    "user_input":"What event led to Michael Jordan becoming a grandfather in 2019?",
+    "response":"Michael Jordan became a grandfather in 2019 when his daughter, Jasmine, gave birth to a son.",
+    "reference":"His daughter Jasmine giving birth to a son, whose father is professional basketball player Rakeem Christmas.",
+    "judgement": "51/63"
+  },
+  {
+    "user_input":"What significant achievement did Rumeal Robinson accomplish during his junior year in 1989?",
+    "response":"During his junior year in 1989, Rumeal Robinson achieved significant fame by sinking two crucial free throws with 3 seconds left in the 1989 NCAA Men's Division I Basketball Championship, which won the game for the University of Michigan Wolverines against Seton Hall University.",
+    "reference":"Rumeal Robinson sank two crucial free throws with 3 seconds left in the 1989 NCAA Men's Division I Basketball Championship to win the game for the Wolverines over Seton Hall University.",
+    "judgement": "52/64"
+  },
+  {
+    "user_input":"In which season did Darius Morris play for Memphis and what were his shooting percentages in that season?",
+    "response":"Darius Morris played for Memphis in the 2013\u201314 season. In that season, he shot .375 from the field, .286 from 3-point range, and .333 from the free throw line.",
+    "reference":"Darius Morris played for Memphis in the 2013-14 season. He shot .308 from the field, .000 from 3-point range, and .500 from the free throw line.",
+    "judgement": "52/65"
+  }
+]
